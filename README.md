@@ -2,7 +2,7 @@
 
 Interested in creating an extension for TwilioQuest? You've come to the right place! Using this repository as a template, you can create new levels, objectives, characters, and items in TwilioQuest.
 
-A new readme for my extension
+A new readme for my extension to try actions
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
