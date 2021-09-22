@@ -1,5 +1,5 @@
 {
-  "name": "twilioquest-extension",
+  "name": "My TQ extension",
   "description": "This is a demo extension for TwilioQuest.",
   "version": "0.0.1",
   "engines": {
